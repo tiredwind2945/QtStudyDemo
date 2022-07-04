@@ -1,0 +1,4 @@
+/*QFrame*/
+QFrame#frame_title{
+	background-color:rgb(244, 76, 76);
+}

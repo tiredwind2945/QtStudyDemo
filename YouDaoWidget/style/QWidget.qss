@@ -1,0 +1,8 @@
+/*QWidget,这里使用id选择器为主界面设置背景色*/
+QWidget#ExploreWidget{
+	border-right:1px solid gray;
+}
+QWidget#YouDaoWidget{
+	font-size:11pt;
+	background-color:white;
+}

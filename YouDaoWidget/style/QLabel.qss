@@ -1,0 +1,29 @@
+/*QLabel*/
+QLabel[style="left-semicircle"]{
+	min-width:15px;
+	min-height:30px;
+	border-top-left-radius:15px;
+	border-bottom-left-radius:15px;
+	background:white;
+}
+
+QLabel[style="right-semicircle"]{
+	min-width:15px;
+	min-height:30px;
+	border-top-right-radius:15px;
+	border-bottom-right-radius:15px;
+	background:white;
+}
+
+QLabel[style="bg-white"]{
+	border:none;
+	background:white;
+}
+QLabel:hover{
+	color:rgb(244, 76, 76);
+}
+
+/*特定控件定义区*/
+QLabel#label_logo{
+    border-image:url(:/image/logo.png);
+}

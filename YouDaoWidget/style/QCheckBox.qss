@@ -1,0 +1,14 @@
+/*QCheckBox 设置界面左下角划词，取词多选框样式*/
+QCheckBox::indicator {
+	border-image: url(:/image/check.png);
+}
+
+QCheckBox::indicator:checked {
+	border-image: url(:/image/checked.png);
+}
+QCheckBox::indicator:hover:!checked {
+	border-image: url(:/image/check-hover.png);
+}
+QCheckBox:hover{
+	color:rgb(244, 76, 76);
+}

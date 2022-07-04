@@ -1,0 +1,8 @@
+/*QToolButton 设置导航栏中的导航按钮样式*/
+QToolButton:checked, 
+QToolButton:hover{
+    border-left:2px solid rgb(244, 76, 76);
+    border-right:none;border-top:none;border-bottom:none;
+    background-color:rgb(244, 76, 76, 50);
+    color:rgb(244, 76, 76) ;
+}

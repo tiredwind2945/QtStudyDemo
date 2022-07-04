@@ -1,0 +1,4 @@
+QStackedWidget{
+background-color:#eeeeee;
+border-left:1px solid gray;
+}

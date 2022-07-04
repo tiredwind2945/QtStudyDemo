@@ -1,0 +1,32 @@
+/*QPushButton*/
+QPushButton[style="bg-white"]{
+	border:none;
+	background:white;
+}
+
+/*特定控件定义区*/
+QPushButton#btn_pre{border-image:url(:/image/prev.png);}
+QPushButton#btn_pre:hover{border-image:url(:/image/prev-hover.png);} 
+QPushButton#btn_pre:disabled{border-image:url(:/image/prev-disabled.png);}
+
+QPushButton#btn_next{border-image:url(:/image/next.png);}
+QPushButton#btn_next:hover{border-image:url(:/image/next-hover.png);}
+QPushButton#btn_next:disabled{border-image:url(:/image/next-disabled.png);}
+
+QPushButton#btn_history{border-image:url(:/image/history.png);}
+QPushButton#btn_history:hover{border-image:url(:/image/history-hover.png);}
+
+
+QPushButton#btn_login{border-image:url(:/image/default-portrait.png);}
+
+QPushButton#btn_mini{border-image:url(:/image/mini.png);}
+QPushButton#btn_mini:hover{border-image:url(:/image/mini-hover.png);}
+
+QPushButton#btn_min{border-image:url(:/image/minimum.png);}
+QPushButton#btn_min:hover{border-image:url(:/image/minimum-hover.png);}
+
+QPushButton#btn_max{border-image:url(:/image/maximum.png);}
+QPushButton#btn_max:hover{border-image:url(:/image/maximum-hover.png)}
+
+QPushButton#btn_close{border-image:url(:/image/close.png);}
+QPushButton#btn_close:hover{border-image:url(:/image/close-hover.png);}
