@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>searchInput.png</file>
+        <file>searchInput_click.png</file>
+    </qresource>
+</RCC>
