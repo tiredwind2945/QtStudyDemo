@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>image/exit.png</file>
-        <file>image/file.png</file>
-        <file>image/print.png</file>
-    </qresource>
-</RCC>
