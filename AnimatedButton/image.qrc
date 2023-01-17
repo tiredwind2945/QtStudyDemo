@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>clean_Hover.png</file>
+        <file>clean_Leave.png</file>
+        <file>clean.png</file>
+    </qresource>
+</RCC>
